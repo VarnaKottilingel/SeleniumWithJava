@@ -1,0 +1,3 @@
+com\github\stepdefinitions\HomePageStepDefs.class
+com\github\stepdefinitions\GitHubDashboardStepDefs.class
+runner\TestRunner.class
